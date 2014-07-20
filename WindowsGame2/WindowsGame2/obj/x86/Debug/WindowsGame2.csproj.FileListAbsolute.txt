@@ -1,0 +1,248 @@
+c:\users\tomek\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\tomek\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\users\tomek\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\users\tomek\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\users\tomek\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\xwing.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox2.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\riemerstexture.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\texturemap.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_back.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_bottom.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_front.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_left.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_right.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_top.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+c:\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\xwing.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox2.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\riemerstexture.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\texturemap.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_back.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_bottom.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_front.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_left.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_right.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_top.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\xwing.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox2.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\riemerstexture.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\texturemap.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_back.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_bottom.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_front.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_left.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_right.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_top.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+G:\wykłady\multimedialne\Laboratoria\Lab9\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\xwing.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox2.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\riemerstexture.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\texturemap.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_back.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_bottom.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_front.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_left.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_right.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_top.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\multi\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\multi\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+D:\multi\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\multi\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\multi\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\multi\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\multi\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\xwing.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox2.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\riemerstexture.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\texturemap.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_back.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_bottom.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_front.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_left.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_right.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_top.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+G:\wykłady\multimedialne\Laboratoria\Lab9\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\xwing.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox2.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\riemerstexture.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\texturemap.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_back.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_bottom.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_front.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_left.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_right.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_top.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\Projects\nowy\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\xwing.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox2.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\riemerstexture.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\texturemap.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_back.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_bottom.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_front.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_left.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_right.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\skybox_top.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\Projects\nowy2\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\Series4Effects.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\dome.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\grass.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\rock.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\sand.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\snow.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\tree.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\waterbump.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\treeMap.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\GUNSHOT2.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\Explosion.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\heightmap2.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Fighter.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Invader.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Voinian Spaceship.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\ric.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\alert.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\engine.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\xwing.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\ParticleEffect.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\bullet.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\explosion.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\smoke.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\bbEffect.xnb
+c:\Projects\Deadly sky massacre\Xwing\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb

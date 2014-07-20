@@ -1,0 +1,150 @@
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\Series4Effects.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\ParticleEffect.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\bbEffect.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\bullet.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\grass.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\rock.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\sand.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\snow.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\tree.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\waterbump.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\treeMap.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\heightmap2.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\explosion.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\smoke.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\dome.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Fighter.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Invader.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Voinian Spaceship.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\xwing.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\GUNSHOT2.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\Explosion.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\ric.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\alert.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\engine.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\Projects\Deadly sky massacre\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\Series4Effects.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\ParticleEffect.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\bbEffect.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\bullet.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\grass.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\rock.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\sand.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\snow.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\tree.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\waterbump.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\treeMap.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\heightmap2.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\explosion.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\smoke.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\dome.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Fighter.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Invader.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Voinian Spaceship.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\xwing.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\GUNSHOT2.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\Explosion.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\ric.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\alert.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\engine.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\Projects\Deadly sky massacre\kopia DSM - starship simulator\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\Series4Effects.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\ParticleEffect.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\bbEffect.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\bullet.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\grass.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\rock.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\sand.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\snow.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\tree.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\waterbump.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\treeMap.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\heightmap2.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\explosion.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\smoke.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\dome.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Fighter.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Invader.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Voinian Spaceship.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\xwing.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\GUNSHOT2.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\Explosion.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\ric.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\alert.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\engine.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\obj\x86\Debug\DSM.csprojResolveAssemblyReference.cache
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\obj\x86\Debug\DSM.csproj.GenerateResource.Cache
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+E:\DSM R1.0 source.ZIP\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\Series4Effects.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\ParticleEffect.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\bbEffect.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\bullet.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\grass.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\rock.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\sand.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\snow.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\tree.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\waterbump.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\treeMap.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\heightmap2.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\explosion.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\smoke.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\dome.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Fighter.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Invader.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Voinian Spaceship.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\xwing.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\GUNSHOT2.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\Explosion.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\ric.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\alert.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\engine.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+E:\DSM R10 source\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+E:\DSM R10 source\WindowsGame2\WindowsGame2\obj\x86\Debug\DSM.csprojResolveAssemblyReference.cache
+E:\DSM R10 source\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\DSM R10 source\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.Form1.resources
+E:\DSM R10 source\WindowsGame2\WindowsGame2\obj\x86\Debug\DSM.csproj.GenerateResource.Cache
+E:\DSM R10 source\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+E:\DSM R10 source\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
